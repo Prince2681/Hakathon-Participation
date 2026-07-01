@@ -1,4 +1,4 @@
-# 🚀 CareerPilot AI
+# CareerPilot AI
 ### AI-Powered Agentic Career Assistant
 
 > An AI-powered career assistant that helps job seekers analyze resumes, evaluate job descriptions, identify skill gaps, optimize ATS scores, prepare for interviews, and manage job applications—all in one platform.
